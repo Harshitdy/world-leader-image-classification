@@ -33,8 +33,8 @@ To run this notebook interactively:
 * [Matplotlib](http://matplotlib.org/)
 * [bs64](https://pypi.org/project/pybase64/)
 
-### Goal for this Notebook:
-Showing a simple example of an analysis of the Titanic disaster in Python and prediction the chance of person to survive in that disaster using the data of all the persons.
+### Haar cascade classifier
+Haar Cascade Classifiers : We will implement our use case using the Haar Cascade classifier. Haar Cascade classifier is an effective object detection approach which was proposed by Paul Viola and Michael Jones in their paper, “Rapid Object Detection using a Boosted Cascade of Simple Features” in 2001.
 
 #### This Notebook will show basic examples of:
 *  Data Collection
